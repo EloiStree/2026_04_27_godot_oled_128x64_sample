@@ -7,3 +7,6 @@
 [submodule "addons/HelloGodot128x64"]
 	path = addons/HelloGodot128x64
 	url = https://github.com/EloiStree/HelloGodot128x64.git
+[submodule "addons/2026_04_27_gdp_oled_128x64_charleroi_xr"]
+	path = addons/2026_04_27_gdp_oled_128x64_charleroi_xr
+	url = https://github.com/EloiStree/2026_04_27_gdp_oled_128x64_charleroi_xr.git

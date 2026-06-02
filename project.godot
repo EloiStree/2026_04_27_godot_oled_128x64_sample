@@ -12,7 +12,7 @@ config_version=5
 
 config/name="OLED 128X64"
 config/description="Simulation of the OLED 128x64"
-run/main_scene="uid://dnv88k2tdgj7i"
+run/main_scene="uid://xropgo53jkpb"
 config/features=PackedStringArray("4.6", "Mobile")
 config/icon="res://icon.svg"
 
